@@ -6,7 +6,6 @@ This expert system asks a series of questions in sequence, and whenever the user
 ## :file_folder: Project Structure
 ```
 carpet-expert-system/
-|    
 |── carpet_rules.clp        # Main CLIPS file (rules + questions)      
 |── sample_run.txt
 |   README.md  
