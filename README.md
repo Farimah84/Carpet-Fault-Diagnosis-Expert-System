@@ -6,9 +6,10 @@ This expert system asks a series of questions in sequence, and whenever the user
 ## :file_folder: Project Structure
 ```
 carpet-expert-system/
-| README.md   
+|    
 ├── carpet_rules.clp        # Main CLIPS file (rules + questions)      
-└── sample_run.txt            
+└── sample_run.txt
+|   README.md  
 ``` 
 ## :hammer_and_wrench: Requirements
 - CLIPS 6.4 or newer
