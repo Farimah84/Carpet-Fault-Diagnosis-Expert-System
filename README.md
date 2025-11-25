@@ -10,3 +10,7 @@ carpet-expert-system/
 ├── README.md                # Documentation
 └── sample_run.txt            
 ``` 
+## :hammer_and_wrench: Requirements
+- CLIPS 6.4 or newer
+- A terminal or CLIPS console
+- No additional packages needed
