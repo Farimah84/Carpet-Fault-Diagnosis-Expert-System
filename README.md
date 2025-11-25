@@ -7,7 +7,7 @@ This project simulates a real expert asking sequential questions, evaluating sym
 carpet-expert-system/
 │
 ├── carpet_rules.clp        # Main CLIPS file (rules + questions)
-├── README.md                # Documentation
+├── README.md               
 └── sample_run.txt            
 ``` 
 ## :hammer_and_wrench: Requirements
