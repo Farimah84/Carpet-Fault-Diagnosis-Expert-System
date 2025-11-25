@@ -9,7 +9,7 @@ Answer using: yes / no  or by typing the requested information.
 Does the carpet have a bad smell? (yes/no)
 yes
 
->>> What type of smell is it?
+>>> What type of smell is it? (smoke chemical urine moistureer)
 chemical
 
 
