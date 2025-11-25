@@ -1,24 +1,19 @@
-================ CARPET EXPERT SYSTEM (Question-Based) ================
-                A simple rule-based expert system in CLIPS
-=======================================================================
-The system will ask you several questions about your carpet.
-Answer using: yes / no  or by typing the requested information.
+============================================
+         CARPET PROBLEM EXPERT SYSTEM          
+=============================================
 
+Welcome! — please answer the questions to diagnose.
 
->>> QUESTION 1:
-Does the carpet have a bad smell? (yes/no)
-yes
+------------------------
+ Question: Bad Smell
+------------------------
+>>> Does the carpet have a bad smell? 
+   Options: (yes no)
+   Enter your answer: yes
+
+✔ Answer recorded: smell = yes
 
 >>> What type of smell is it? (smoke chemical urine moistureer)
-chemical
-
-
---- Processing your answers...
---- Matching rules...
-
-=======================================================================
-                          FINAL SOLUTION
-=======================================================================
-
-Solution:
-    - Avoid further chemical exposure; consult a specialist and consider professional cleaning.
+   Options: (smoke chemical urine moistureer)
+   Enter your answer: chemical
+✔ Answer recorded: smell-type = chemical
