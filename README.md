@@ -29,3 +29,8 @@ carpet-expert-system/
 ```
 (run)
 ```
+### The system will begin asking questions such as:
+- Has the rug been damaged by insects or animals?
+- Is there glue spillied on the carpet?
+- Did an oil-based stain spill on the carpet?
+- Has sunlight caused fading or damage to the rug?
