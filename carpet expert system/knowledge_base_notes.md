@@ -6,9 +6,10 @@
 ## 1. Knowledge acquisition
 - Sources: Interview with Mr. Nourpanah (expert), Book "Washing, care and maintenance of handmade carpets"
 
-## 2. Categories & scope
+## 2. Categories
 -  Stains: oil, tea, coffee, wine, blood, ink, adhesive, wax, glue
 -  Odors: moisture, urine, smoke, chemical, mildew
+
 ## 3. Example rules (table)
 - R13 | stain-type oil | IF stain-type oil THEN Recommendation: apply cornstarch...
 
