@@ -6,9 +6,9 @@
 
 ## Abstract:
 
-# 1. Introduction
+## 1. Introduction
 
-# 2. Background
+## 2. Background
 
-# 3. Methodology [انتخاب دامنه، استخراج دانش (مصاحبه/منابع)، ساختار templateها، نحوهٔ نوشتن ruleها (مثال‌ها).] [توضیح انتخاب مدل پرسشی (question-based) و چرایی آن.]
+## 3. Methodology 
 
