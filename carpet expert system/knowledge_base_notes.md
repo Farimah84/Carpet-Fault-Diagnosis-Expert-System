@@ -17,6 +17,25 @@
   3. Protein based: blood, milk
   4. Other: chewing-gum, nail-polish, vomit, urine, paint-latix, chalk
 - Corners or Edges
+- White Knots
+- Moth Damage
+- Color Burned
+- Pile
+- Torn
+- Colors Bled
+- Weave
+- Thin
+- Damages:
+  1. Water
+  2. Vacuum
+  3. Sunlight
+  4. Plantet pot
+  5. Air Pollution
+  6. Heat
+  7. Light
+  8. Moisture
+- Wear
+- Flattening
 
 ## 3. Example rules (table)
 - R13 | stain-type oil | IF stain-type oil THEN Recommendation: apply cornstarch...
