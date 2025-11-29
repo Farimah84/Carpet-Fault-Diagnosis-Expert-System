@@ -7,7 +7,7 @@ This expert system asks a series of questions in sequence, and whenever the user
 ```
 carpet-expert-system/
 |── carpet_rules.clp        # Main CLIPS file (rules + questions)
-|── REPORT.md
+|── knowledge_base_notes.md
 |── sample_run.txt
 |   README.md  
 ``` 
