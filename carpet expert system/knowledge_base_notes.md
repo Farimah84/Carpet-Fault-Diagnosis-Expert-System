@@ -7,8 +7,16 @@
 - Sources: Interview with Mr. Nourpanah (expert), Book "Washing, care and maintenance of handmade carpets"
 
 ## 2. Categories
--  Stains: oil, tea, coffee, wine, blood, ink, adhesive, wax, glue
--  Odors: moisture, urine, smoke, chemical, mildew
+- Smell-types: smoke, chemical, urine, moistureer
+- Color-types: ink-ball-point-pen, ink, crayon, paint-oil
+- Glue: glue-hobby, glue-white
+- Insects or Animals-types: spider-webs, cocoons, beetles, termites, dog-chewing, cat-scratching
+-  Stains:
+  1. Water based: tea, mixed-drinks-liqueurs, soft-drinks, food-dyes
+  2. Oil based: butter, chocolate, ice-cream, grease-food, grease-auto, other
+  3. Protein based: blood, milk
+  4. Other: chewing-gum, nail-polish, vomit, urine, paint-latix, chalk
+- Corners or Edges
 
 ## 3. Example rules (table)
 - R13 | stain-type oil | IF stain-type oil THEN Recommendation: apply cornstarch...
