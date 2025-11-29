@@ -46,8 +46,30 @@
    (assert (smell ?type))
    (printout t "✔ Answer recorded: smell-type = " ?type crlf))
 ```
+## 4. Solution Rules
+```
+(defrule chemical-smell
+   (smell chemical)
+   =>
+   (printout t crlf
+      "Solution: Avoid further chemical exposure; consult a specialist and consider professional cleaning." crlf)
+      (assert (done)))
+```
 
-## 4. Example rules
+## 5. Reasoning Flow (Simplified)
+```
+START
+ └── Smell?
+       ├── Yes → Smell Type → Solution
+       └── No → Color?
+                ├── Yes → Color Type → Solution
+                └── No → Insects/Animals?
+                         ├── Yes → Type → Solution
+                         └── No → Glue?
+                                  ...
+                                      └── No → No Problem
+```
+## 6. Example rules
 - R1 | smell-type smoke | IF smell-type smoke oil THEN Solution: Air the carpet outdoors, use deep-cleaning or steam cleaning to remove residues.
 - R14 | insects-or-animals-type dog-chewing | IF insects-or-animals-type dog-chewing THEN Solution: Sprinkle about 20 grams of moth flakes under the rug and along the edges to deter pets.
 
